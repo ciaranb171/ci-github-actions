@@ -1,5 +1,5 @@
-const attack = require("./attack")
+const attack = require('./attack');
 
 console.log(
-    attack("smelly ogre" , 23)
-)
+  attack('smelly ogre', 23),
+);
